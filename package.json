@@ -1,9 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"description": "cool project",
+	"keywords": ["Learning", "microservices"],
+	"license" : "MIT",
+	"version" : "1.2.0",
 	"author" : "Anish Goel",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
 	},
 	"main": "server.js",
 	"scripts": {
